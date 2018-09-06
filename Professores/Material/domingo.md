@@ -237,7 +237,7 @@ Toda operação lógica resulta em um valor booleano, ou seja, `true` ou `false`
 
 > TODO: ADICIONAR EX3
 
-#### Como criar um PWA
+#### PWA
 
 PWA é um conjunto de técnicas para desenvolver aplicações web, adicionando funcionalidades que antes só eram possíveis em apps nativos. Pode ser para qualquer usuário, responsivo, funciona mesmo no offline, tem aparência de um app nativo, aceita apenas https e tem fácil instalação.
 
@@ -289,6 +289,10 @@ Para criar seu arquivo manifest.json, existe este site onde é possível inserir
 https://app-manifest.firebaseapp.com/
 
 > Para saber se você está no caminho certo na construção do seu Progressive Web App é usar alguma ferramenta de inspeção como o Lighthouse já dito acima.
+
+No último fds foi passado este conteúdo:
+https://github.com/mastertech-aulas/pwa-base
+https://github.com/mastertech-aulas/fds-domingo-js
 
 
 
